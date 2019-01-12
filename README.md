@@ -1,6 +1,12 @@
 # cake
 
-A new Flutter application.
+A new Flutter application for cake desing i found on uplabs
+
+
+Please Feel Free to download and test the app, incase of any issues, you know what to do(ISSUE an ISSUE).
+Do Whatever you want to do with it
+
+![alt text](https://raw.githubusercontent.com/trey-rosius/cake_app/master/images/cake_fruit.png)
 
 ## Getting Started
 
