@@ -1,6 +1,7 @@
 # cake
 
-A new Flutter application for cake desing i found on uplabs
+A new Flutter application for cake App. Here's the link to the desing on uplabs.
+https://www.uplabs.com/posts/bakery-item-shop-page
 
 
 Please Feel Free to download and test the app, incase of any issues, you know what to do(ISSUE an ISSUE).
