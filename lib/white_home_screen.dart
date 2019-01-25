@@ -135,7 +135,10 @@ class _WhiteHomeScreenState extends State<WhiteHomeScreen> {
               ),
               Row(
                 children: <Widget>[
-                  Image.asset('images/cake.png'),
+                  Image.asset(
+                    'images/cake.png',
+                    width: MediaQuery.of(context).size.width / 1.2,
+                  ),
                   Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.center,

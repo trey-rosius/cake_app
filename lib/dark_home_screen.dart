@@ -144,7 +144,10 @@ class _DarkHomeScreenState extends State<DarkHomeScreen> {
               ),
               Row(
                 children: <Widget>[
-                  Image.asset('images/cake.png'),
+                  Image.asset(
+                    'images/cake.png',
+                    width: MediaQuery.of(context).size.width / 1.2,
+                  ),
                   Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.center,
@@ -303,8 +306,6 @@ class _DarkHomeScreenState extends State<DarkHomeScreen> {
                 padding: EdgeInsets.only(top: 10.0, bottom: 10.0),
                 width: size.width / 1.1,
                 child: Row(
-                  // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                  // crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     Expanded(
                         child: Text(
