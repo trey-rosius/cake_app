@@ -1,6 +1,5 @@
 # medium
-Link to the Medium Article
-https://medium.com/@treyrosiusndimofor/creating-beautiful-apps-with-flutter-7277159d4b32
+Link to the [Medium Article](https://medium.com/@treyrosiusndimofor/creating-beautiful-apps-with-flutter-7277159d4b32)
 
 # cake
 
